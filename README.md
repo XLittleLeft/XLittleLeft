@@ -24,18 +24,18 @@
 
 <img align="right" alt="img" src="https://github.com/XLittleLeft/XLittleLeft/blob/main/ATRI.gif" width="50%" height="auto" />
 
-💻 Languages and Tools 💻:
-💻 编程语言和工具 💻：
+### 💻 Languages and Tools 💻:
+### 💻 编程语言和工具 💻：
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XLittleLeft)](https://github.com/anuraghazra/github-readme-stats)
 
-⚡ Fun Facts ⚡:
-⚡ 有趣的事实 ⚡:
+### ⚡ Fun Facts ⚡:
+### ⚡ 有趣的事实 ⚡:
 - 🔮 I like playing WarThunder
   
   🔮 没错我是雷批
 
-💬 Let's Connect 💬:
-💬 联系方式 💬：
+### 💬 Let's Connect 💬:
+### 💬 联系方式 💬：
 - 📪 Drop me an email at 3298837494@qq.com
 
   📪 给我发邮件到 3298837494@qq.com

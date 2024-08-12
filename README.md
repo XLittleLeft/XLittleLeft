@@ -30,7 +30,7 @@
 
 ### ⚡ Fun Facts ⚡:
 ### ⚡ 有趣的事实 ⚡:
-- 🔮 I like playing WarThunder
+- 🔮 I like playing War Thunder
   
   🔮 没错我是雷批
 

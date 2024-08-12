@@ -22,11 +22,11 @@
 
   🤔 我还是不太了解Harmony，为了更好的开发我希望有人能在这方面帮助我
 
+<img align="right" alt="img" src="https://github.com/XLittleLeft/XLittleLeft/blob/main/ATRI.gif" width="50%" height="auto" />
+
 ## Languages and Tools:
 # 编程语言和工具：
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XLittleLeft)](https://github.com/anuraghazra/github-readme-stats)
-
-<img align="right" alt="img" src="https://github.com/XLittleLeft/XLittleLeft/blob/main/ATRI.gif" width="50%" height="auto" />
 
 ## Fun Facts:
 # 有趣的事实:

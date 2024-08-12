@@ -26,6 +26,7 @@
 ## Fun Facts:
 # 有趣的事实:
 - 🔮 I like playing WarThunder
+  
   🔮 没错我是雷批
 
 ## Let's Connect:
@@ -35,7 +36,8 @@
   📪 给我发邮件到 3298837494@qq.com
   
 - 🐧 QQ:3298837494
-- bilibili: [很皮的X小左](https://space.bilibili.com/1753374961)
+- Bilibili: [很皮的X小左](https://space.bilibili.com/1753374961)
+- Discord: XLittleLeft
 
 
 <!--

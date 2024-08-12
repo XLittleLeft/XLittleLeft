@@ -1,6 +1,7 @@
 ## Hi there 👋 I'm XLittleLeft
 你好，我是X小左
 
+<img align="right" alt="img" src="https://github.com/XLittleLeft/XLittleLeft/blob/main/ATRI.gif" width="50%" height="auto" />
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/XLittleLeft)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:XLittleLeft@gmail.com)

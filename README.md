@@ -23,6 +23,21 @@
 # 编程语言和工具：
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XLittleLeft)](https://github.com/anuraghazra/github-readme-stats)
 
+## Fun Facts:
+# 有趣的事实:
+- 🔮 I like playing WarThunder
+  🔮 没错我是雷批
+
+## Let's Connect:
+# 联系方式：
+- 📪 Drop me an email at 3298837494@qq.com
+
+  📪 给我发邮件到 3298837494@qq.com
+  
+- 🐧 QQ:3298837494
+- bilibili: [很皮的X小左](https://space.bilibili.com/1753374961)
+
+
 <!--
 **XLittleLeft/XLittleLeft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

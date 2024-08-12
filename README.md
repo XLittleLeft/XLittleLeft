@@ -28,6 +28,18 @@
 ### 💻 编程语言和工具 💻：
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XLittleLeft)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<p>
+
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+</p>
+
 ### ⚡ Fun Facts ⚡:
 ### ⚡ 有趣的事实 ⚡:
 - 🔮 I like playing War Thunder

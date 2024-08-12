@@ -44,7 +44,7 @@
 - Bilibili: [很皮的X小左](https://space.bilibili.com/1753374961)
 - Discord: XLittleLeft
 
-### 自2024/8/12以来的访客数
+### 🧑‍🤝‍🧑 自2024/8/12以来的访客数 🧑‍🤝‍🧑
 <a href="https://info.flagcounter.com/mWjN"><img src="https://s11.flagcounter.com/mini/mWjN/bg_FFFFFF/txt_000000/border_CCCCCC/flags_0/" alt="Flag Counter" border="0"></a>
 
 
